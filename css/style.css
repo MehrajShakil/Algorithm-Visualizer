@@ -17,23 +17,14 @@ body{
         margin-right : 2px;
     }
 }
-.hello{
-    border: 1px solid white;
-    height: 15rem;
-    width: 3px;
-    float: left;
-    padding: 5px;
-    margin: 3px;
-    color: white;
-    font-size: 8px;
-}
+
 .new-array{
     margin-top: 4rem;
     margin-left: 10rem;
 }
 ._1, ._2, ._3, ._4, ._5, ._6, ._6, ._7, ._8, ._9, ._10, ._11, ._12, ._13, ._14, ._15, ._16, ._17, ._18, ._19, ._20 {
     background-color: #fff;
-    border: 2px solid #fff;
+    border: 1px solid red;
     height: 20rem;
     width: 1.5rem;
     float: left;
