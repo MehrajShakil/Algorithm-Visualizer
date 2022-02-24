@@ -21,10 +21,11 @@ body{
 .new-array{
     margin-top: 4rem;
     margin-left: 10rem;
+    position: relative;
 }
 ._1, ._2, ._3, ._4, ._5, ._6, ._6, ._7, ._8, ._9, ._10, ._11, ._12, ._13, ._14, ._15, ._16, ._17, ._18, ._19, ._20 {
     background-color: #fff;
-    border: 1px solid red;
+    border: 2px solid #2D31FA;
     height: 20rem;
     width: 1.5rem;
     float: left;
@@ -32,6 +33,7 @@ body{
     color: #000;
     text-align: center;
     font-weight: bold;
+    position: relative;
 }
 
 
